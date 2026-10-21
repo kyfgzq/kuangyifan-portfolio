@@ -3,6 +3,15 @@
 一个纯静态的个人作品集，面向 2027 届秋招的游戏业务运营 / 游戏内容运营岗位。
 方向是「游戏 HUD + 玩家档案」：深色街机界面、像素头像、可交互的账号矩阵、AI 工作台和 Canva 文旅作品。
 
+## 在线地址
+
+**https://kyfgzq.github.io/kuangyifan-portfolio/**
+
+已部署在 GitHub Pages，任何人打开这个链接都能看到完整页面、账号截图、文旅海报和简历 PDF，不依赖你的电脑。
+
+- GitHub 仓库：https://github.com/kyfgzq/kuangyifan-portfolio
+- 部署方式：`main` 分支根目录 → GitHub Pages（`.nojekyll` 已加入）
+
 ## 本地预览
 
 直接双击 `index.html` 即可；如果浏览器限制本地字体，建议起一个本地静态服务器：
