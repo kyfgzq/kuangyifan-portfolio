@@ -1,4 +1,4 @@
-/* ==========================================================================
+﻿/* ==========================================================================
    况益帆 · 游戏业务运营作品集
    Hand-built, no framework. Dark arcade / HUD direction.
    ========================================================================== */
@@ -923,7 +923,6 @@ body.nav-open .mobile-menu {
   height: 100%;
   object-fit: cover;
   object-position: center 18%;
-  clip-path: inset(0 2.5% 0 0);
   transition: opacity 0.35s ease, transform 0.7s var(--ease);
 }
 
@@ -4115,4 +4114,5 @@ html.only-mode .section.is-qa-target {
   .cursor-glow, .cursor-ring { display: none; }
   .shot-hint { display: none; }
 }
+
 
